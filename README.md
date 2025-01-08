@@ -21,6 +21,6 @@ Here are some of the websites I’ve worked on:
 1. **[Tashi Pal Buddhist Center](tashipalcenter.org)** – Website made for Tashi Pal Buddhist Center.
 2. **[SinalByte Computer Store](sinalbyte.pt)** – Website made for SinalByte Computer Store
 
---
+##
 
 Thank you for visiting my profile. Feel free to reach out if you’d like to collaborate.
