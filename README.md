@@ -10,7 +10,7 @@ You can reach me at **[79081809+HundredSongs@users.noreply.github.com]**.
 
 ## Skills and Tools
 
-**Languages:** C, C++, PHP, JS, Python
+**Languages:** C, C++, PHP, Python, Java, JS
 **Frameworks and Tools:** Bootstrap
 **Other Skills:** Git, SQL
 
