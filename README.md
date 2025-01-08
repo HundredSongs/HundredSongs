@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome to My GitHub Profile
 
-<!--
-**HundredSongs/HundredSongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Your Name], a [Your Role or Field, e.g., Software Developer] passionate about creating efficient and scalable solutions.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning WebDev / WebDesign.  
+I am open to collaborating on WedDev projects.  
+You can reach me at **[79081809+HundredSongs@users.noreply.github.com]**.
+
+## Skills and Tools
+
+**Languages:** C, C++, PHP, JS, Python
+**Frameworks and Tools:** Bootstrap
+**Other Skills:** Git, SQL
+
+## GitHub Stats
+
+Thank you for visiting my profile. Feel free to reach out if you’d like to collaborate.
+
+---
+
+Let me know if you need any further changes!
