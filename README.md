@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile
 
-Hello! I'm [Your Name], a [Your Role or Field, e.g., Software Developer] passionate about creating efficient and scalable solutions.
+Hello! I'm João Roque, a Software Developer passionate about WebDesign & WebDevelpment.
 
 ### About Me
 
