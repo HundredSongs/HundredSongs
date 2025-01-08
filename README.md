@@ -18,8 +18,8 @@ You can reach me at **[joaoroque.webdev+github@gmail.com](mailto:joaoroque.webde
 
 Here are some of the websites I’ve worked on:
 
-1. **[Tashi Pal Buddhist Center](tashipalcenter.org)** – Website made for Tashi Pal Buddhist Center.
-2. **[SinalByte Computer Store](sinalbyte.pt)** – Website made for SinalByte Computer Store
+1. **[Tashi Pal Buddhist Center](https://tashipalcenter.org)** – Website made for Tashi Pal Buddhist Center.
+2. **[SinalByte Computer Store](https://sinalbyte.pt)** – Website made for SinalByte Computer Store
 
 ##
 
