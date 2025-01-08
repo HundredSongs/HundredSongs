@@ -6,7 +6,7 @@ Hello! I'm João Roque, a Software Developer passionate about WebDesign & WebDev
 
 I am currently improving my WebDev / WebDesign skills.  
 I am open to collaborating on WedDev projects.  
-You can reach me at **[79081809+HundredSongs@users.noreply.github.com]**.
+You can reach me at **[joaoroque.webdev@gmail.com]**.
 
 ## Skills and Tools
 
