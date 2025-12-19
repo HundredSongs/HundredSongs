@@ -10,7 +10,7 @@ You can reach me at **[joaoroque.webdev+github@gmail.com](mailto:joaoroque.webde
 
 ## Skills and Tools
 
-**Languages:** C, C++, PHP, Python, Java, JS <br/>
+**Languages:** C, C++, PHP, Python, Java, JS ( Learning Lua & Rust )<br/>
 **Frameworks and Tools:** Bootstrap, Wordpress <br/>
 **Other Skills:** Git, SQL <br/>
 
